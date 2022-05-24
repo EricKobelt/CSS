@@ -1,0 +1,44 @@
+body {
+    background-color: whitesmoke;
+}
+#wrapper {  position : absolute;
+top: 0px;
+left: 50%;
+margin-left: -250px}
+
+h1 {
+    color: red;
+    text-shadow: 1px 1px #ff0000;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    text-transform: uppercase;
+    text-shadow: 1px 1px blue;
+}
+
+#even {
+    background-color: lightblue;
+}
+
+a {
+    color: green;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+#shadow {
+    text-shadow: 3px 3px violet;
+}
